@@ -6,4 +6,4 @@ for(let i = 0; i <= marks.length; i++){
         max = element;
     }
 }
-console.log("Heighest value is:", max);
+console.log("Highest value is:", max);
